@@ -108,6 +108,5 @@ Organization: AS15169 Google LLC
 
 This project is open-source and available under the [MIT License](https://github.com/Michdo93/ip-geolocator/LICENSE).
 
-```
 
 ---
